@@ -6,7 +6,8 @@
 **Valorant:** hervykleir#0001  
 
 ## 📘 Social Media  
-**Facebook:** [Hervy Silverio](https://www.facebook.com/)  
+**Facebook:** [Hervy Silverio](https://www.facebook.com/share/12F8eoR6s6i/?mibextid=wwXIfr)  
+**X:** [@achle.es] (https://x.com/achle_es) 
 
 ## 🎯 Hobbies & Interests  
 🏓 Table Tennis | 🎯 Air Hockey | ⛸️ Ice Skating | 🏐 Volleyball | 🏸 Badminton | 🎸 Electric Guitar  
