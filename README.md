@@ -4,7 +4,8 @@
 
 ## 🎮 Gaming  
 **Valorant:** hervykleir#0001  
-*i do play Call of Duty, Mobile Legends, Clash of Clans, PUBG, and more! just add me on any of my social accounds to know my ID as well as play with me!*  
+  
+*i do play Call of Duty, Mobile Legends, Clash of Clans, PUBG, and more!* ***just add me on any of my social accounds to know my ID as well as play with me!***  
 
 ## 📘 Social Media & Other Accounts 
 **Discord:** vj.skkm  
