@@ -1,47 +1,46 @@
-# 🌟👋 Hey, I'm <span style="color:#ff5733">Hervy Kleir Silverio!</span>  
-**🕑 Age:** <span style="color:#f39c12">20</span>  
-**🎂 Birthday:** <span style="color:#e74c3c">January 24, 2005</span>  
+### 🌟 **Hey, I'm Hervy Kleir Silverio!**  
+![Age](https://img.shields.io/badge/Age-20-orange)  
+![Birthday](https://img.shields.io/badge/Birthday-January_24,_2005-blue)  
 
 ---
 
-## 🎮 <span style="color:#3498db">Gaming</span>  
-**🔥 Valorant:** <span style="color:#9b59b6">hervykleir#0001</span>  
+## 🎮 **Gaming**  
+![Valorant](https://img.shields.io/badge/Valorant-hervykleir%230001-red)  
 
 🎮 *I play* **Call of Duty, Mobile Legends, Clash of Clans, PUBG, and more!**  
-💬 *Just add me on any of my socials to get my ID and let's play!*  
+💬 *Add me on any of my social accounts to get my ID and let's play!*  
 
 ---
 
-## 📘 <span style="color:#2ecc71">Social Media & Other Accounts</span>  
-**💬 Discord:** <span style="color:#8e44ad">vj.skkm</span>  
-**📘 Facebook:** [<span style="color:#3b5998">Hervy Silverio</span>](https://www.facebook.com/share/12F8eoR6s6i/?mibextid=wwXIfr)  
-**🐦 X:** [<span style="color:#1da1f2">HERVY KLEIR</span>](https://www.x.com/achle_es)  
-**🎵 Tiktok:** [<span style="color:#ff0050">HERVY KLEIR</span>](https://www.tiktok.com/@achle.es)  
-**🎮 Steam:** [<span style="color:#e74c3c">hervy?</span>](https://steamcommunity.com/id/hervykleir/)  
-**🎥 Twitch:** [<span style="color:#6441a5">hervykleir</span>](https://www.twitch.tv/hervykleir)  
-**📺 Personal YouTube:** [<span style="color:#ff0000">hervykleir</span>](https://www.youtube.com/@hervykleir)  
+## 📘 **Social Media & Other Accounts**  
+[![Facebook](https://img.shields.io/badge/Facebook-Hervy_Silverio-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/12F8eoR6s6i/?mibextid=wwXIfr)  
+[![X](https://img.shields.io/badge/X-HERVY_KLEIR-1da1f2?logo=x&logoColor=white)](https://www.x.com/achle_es)  
+[![TikTok](https://img.shields.io/badge/TikTok-HERVY_KLEIR-ff0050?logo=tiktok&logoColor=white)](https://www.tiktok.com/@achle.es)  
+[![Steam](https://img.shields.io/badge/Steam-hervy%3F-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/hervykleir/)  
+[![Twitch](https://img.shields.io/badge/Twitch-hervykleir-6441A5?logo=twitch&logoColor=white)](https://www.twitch.tv/hervykleir)  
+[![YouTube](https://img.shields.io/badge/YouTube-hervykleir-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@hervykleir)  
 
 ---
 
-## 🎯 <span style="color:#f1c40f">Hobbies & Interests</span>  
+## 🎯 **Hobbies & Interests**  
 🏓 **Table Tennis** | 🎯 **Air Hockey** | ⛸️ **Ice Skating** | 🏐 **Volleyball** | 🏸 **Badminton** | 🎸 **Electric Guitar**  
 
 ---
 
-## 🎤 <span style="color:#ff66b2">Talent</span>  
+## 🎤 **Talent**  
 🎶 **Sing and Dance**  
 
 ---
 
-## 🍽️ <span style="color:#e67e22">Favorite Food</span>  
+## 🍽️ **Favorite Food**  
 🥩 **Chinese Pepper Steak** | 🍤 **Garlic Buttered Shrimp** | 🍱 **Beef Teriyaki** | 🍰 **Red Velvet Cake** | 🐷 **Sisig**  
 
 ---
 
-## ☕ <span style="color:#1abc9c">Favorite Drink</span>  
+## ☕ **Favorite Drink**  
 ☕ **Coffee** | 🍺 **Soju**  
 
 ---
 
-## 💕 <span style="color:#ff3399">Status</span>  
+## 💕 **Status**  
 💖 **In a Relationship since November 2022**  
