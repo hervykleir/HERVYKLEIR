@@ -1,87 +1,63 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#ff5733;">Hervy Kleir Silverio</span>!</h1>
-
-<p><b>🌟 Age:</b> <span style="color:#4caf50;">20</span></p>
-<p><b>🎂 Birthday:</b> <span style="color:#2196F3;">January 24, 2005</span></p>
-
----
-
-<h2>🎮 Gaming</h2>
-
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Valorant_icon.svg" width="20"/> 
-  <b style="color:#ff5733;">Valorant:</b> <span style="color:#ffcc00;">hervykleir#0001</span> 
-</p>
-
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Call_of_Duty_Mobile_Icon.svg" width="20"/>  
-  <b style="color:#00bcd4;">Call of Duty Mobile:</b> <span style="color:#ffcc00;">Ask for ID</span>
-</p>
-
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/MobileLegends_Icon.svg" width="20"/>  
-  <b style="color:#673AB7;">Mobile Legends:</b> <span style="color:#ffcc00;">Ask for ID</span>
-</p>
-
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Clash_of_Clans_Icon.svg" width="20"/>  
-  <b style="color:#e91e63;">Clash of Clans:</b> <span style="color:#ffcc00;">Ask for ID</span>
-</p>
-
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/PUBG_Mobile_Icon.svg" width="20"/>  
-  <b style="color:#607D8B;">PUBG Mobile:</b> <span style="color:#ffcc00;">Ask for ID</span>
-</p>
-
-<p><i style="color:#757575;">I play other games too! Add me on social media to get my ID and let's play!</i></p>
+<div align="center">
+  <h2>✨ <strong style="color: gold;">Hey, I'm Hervy Kleir Silverio!</strong> ✨</h2>
+  <img src="https://img.shields.io/badge/Age-20-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Birthday-January_24,_2005-blue?style=for-the-badge">
+</div>
 
 ---
 
-<h2>📘 Social Media & Other Accounts</h2>
+## 🎮 **Gaming**  
+<img src="https://img.shields.io/badge/Valorant-hervykleir%230001-red?style=for-the-badge&logo=riotgames">  
+<img src="https://img.shields.io/badge/Call_of_Duty-Player-black?style=for-the-badge&logo=callofduty">  
+<img src="https://img.shields.io/badge/PUBG-Player-yellow?style=for-the-badge&logo=pubg">  
+<img src="https://img.shields.io/badge/Mobile_Legends-Player-blue?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Clash_of_Clans-Player-red?style=for-the-badge">  
 
-<p>🔹 <b style="color:#03A9F4;">Discord:</b> <span style="color:#FF9800;">vj.skkm</span></p>
-<p>🔹 <b style="color:#3b5998;">Facebook:</b> <a href="https://www.facebook.com/share/12F8eoR6s6i/?mibextid=wwXIfr" style="color:#2196F3;">Hervy Silverio</a></p>
-<p>🔹 <b style="color:#000000;">X (Twitter):</b> <a href="https://www.x.com/achle_es" style="color:#1DA1F2;">HERVY KLEIR</a></p>
-<p>🔹 <b style="color:#E91E63;">TikTok:</b> <a href="https://www.tiktok.com/@achle.es" style="color:#ff0050;">HERVY KLEIR</a></p>
-<p>🔹 <b style="color:#5C6BC0;">Steam:</b> <a href="https://steamcommunity.com/id/hervykleir/" style="color:#FF9800;">hervy?</a></p>
-<p>🔹 <b style="color:#9146FF;">Twitch:</b> <a href="https://www.twitch.tv/hervykleir" style="color:#800080;">hervykleir</a></p>
-<p>🔹 <b style="color:#FF0000;">YouTube:</b> <a href="https://www.youtube.com/@hervykleir" style="color:#FF0000;">hervykleir</a></p>
-
----
-
-<h2>🎯 Hobbies & Interests</h2>
-
-<p>🎸 <b style="color:#8BC34A;">Electric Guitar</b></p>
-<p>🏓 <b style="color:#FF5722;">Table Tennis</b></p>
-<p>🎯 <b style="color:#FFC107;">Air Hockey</b></p>
-<p>⛸️ <b style="color:#03A9F4;">Ice Skating</b></p>
-<p>🏐 <b style="color:#E91E63;">Volleyball</b></p>
-<p>🏸 <b style="color:#9C27B0;">Badminton</b></p>
+🎮 *I play other games too!*  
+💬 *Add me on any of my social accounts to get my ID and let's play!*  
 
 ---
 
-<h2>🎤 Talent</h2>
-
-<p>🎶 <b style="color:#F44336;">Sing and Dance</b></p>
-
----
-
-<h2>🍽️ Favorite Food</h2>
-
-<p>🥩 <b style="color:#FF5733;">Chinese Pepper Steak</b></p>
-<p>🍤 <b style="color:#FF9800;">Garlic Buttered Shrimp</b></p>
-<p>🍱 <b style="color:#4CAF50;">Beef Teriyaki</b></p>
-<p>🍰 <b style="color:#E91E63;">Red Velvet Cake</b></p>
-<p>🐷 <b style="color:#795548;">Sisig</b></p>
+## 📚 **Social Media & Other Accounts**  
+[<img src="https://img.shields.io/badge/Facebook-Hervy_Silverio-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/share/12F8eoR6s6i/?mibextid=wwXIfr)  
+[<img src="https://img.shields.io/badge/X-HERVY_KLEIR-1da1f2?style=for-the-badge&logo=x&logoColor=white">](https://www.x.com/achle_es)  
+[<img src="https://img.shields.io/badge/TikTok-HERVY_KLEIR-ff0050?style=for-the-badge&logo=tiktok&logoColor=white">](https://www.tiktok.com/@achle.es)  
+[<img src="https://img.shields.io/badge/Steam-hervykleir-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/hervykleir/)  
+[<img src="https://img.shields.io/badge/Twitch-hervykleir-6441A5?style=for-the-badge&logo=twitch&logoColor=white">](https://www.twitch.tv/hervykleir)  
+[<img src="https://img.shields.io/badge/YouTube-hervykleir-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@hervykleir)  
 
 ---
 
-<h2>☕ Favorite Drinks</h2>
-
-<p>☕ <b style="color:#3E2723;">Coffee</b></p>
-<p>🍺 <b style="color:#9E9E9E;">Soju</b></p>
+## 🎯 **Hobbies & Interests**  
+<img src="https://img.shields.io/badge/Table_Tennis-Favorite-orange?style=for-the-badge&logo=tabletennis">  
+<img src="https://img.shields.io/badge/Air_Hockey-Love_it-red?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Ice_Skating-So_Cool-blue?style=for-the-badge&logo=skating">  
+<img src="https://img.shields.io/badge/Volleyball-🏐-yellow?style=for-the-badge&logo=volleyball">  
+<img src="https://img.shields.io/badge/Badminton-🏸-green?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Electric_Guitar-🎸-purple?style=for-the-badge&logo=guitar">  
 
 ---
 
-<h2>💕 Relationship Status</h2>
+## 🎤 **Talent**  
+<img src="https://img.shields.io/badge/Singing-🎤-pink?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Dancing-🕺🕻-orange?style=for-the-badge">  
 
-<p>❤️ <b style="color:#F50057;">In a Relationship since November 2022</b></p>
+---
+
+## 🍽️ **Favorite Food**  
+<img src="https://img.shields.io/badge/Chinese_Pepper_Steak-🥩-red?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Garlic_Buttered_Shrimp-🦐-orange?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Beef_Teriyaki-🍱-brown?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Red_Velvet_Cake-🍰-pink?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Sisig-🐷-purple?style=for-the-badge">  
+
+---
+
+## ☕ **Favorite Drink**  
+<img src="https://img.shields.io/badge/Coffee-☕-brown?style=for-the-badge">  
+<img src="https://img.shields.io/badge/Soju-🍺-green?style=for-the-badge">  
+
+---
+
+## 💕 **Status**  
+<img src="https://img.shields.io/badge/In_a_Relationship_since-November_2022-ff69b4?style=for-the-badge&logo=heart">  
