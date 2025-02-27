@@ -25,7 +25,7 @@
 🥩 Chinese Pepper Steak | 🍤 Garlic Buttered Shrimp | 🍱 Beef Teriyaki | 🍰 Red Velvet Cake | 🐷 Sisig  
 
 ## ☕ Favorite Drink  
-☕ Coffee  
+☕ Coffee  | 🍺 Soju 
 
-## 💡 Fun Fact  
-I love challenging myself with new sports and music styles!  
+## 💕 Status  
+In a Relationship since November 2022
