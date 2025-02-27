@@ -6,7 +6,7 @@
 **Valorant:** hervykleir#0001  
 
 ## 📘 Social Media & Other Accounts 
-**Discord:** vj.skkm
+**Discord:** vj.skkm 
 **Facebook:** [Hervy Silverio](https://www.facebook.com/share/12F8eoR6s6i/?mibextid=wwXIfr)  
 **X:** [HERVY KLEIR](https://www.x.com/achle_es) 
 **Tiktok:** [HERVY KLEIR](https://www.tiktok.com/@achle.es)  
