@@ -5,9 +5,15 @@
 ## 🎮 Gaming  
 **Valorant:** hervykleir#0001  
 
-## 📘 Social Media  
+## 📘 Social Media & Other Accounts 
+**Discord:** vj.skkm
 **Facebook:** [Hervy Silverio](https://www.facebook.com/share/12F8eoR6s6i/?mibextid=wwXIfr)  
-**X:** [Hervy Kleir](https://www.x.com/achle_es) 
+**X:** [HERVY KLEIR](https://www.x.com/achle_es) 
+**Tiktok:** [HERVY KLEIR](https://www.tiktok.com/@achle.es)  
+**Steam:** [hervy?](https://steamcommunity.com/id/hervykleir/)  
+**Twitch:** [hervykleir](https://www.twitch.tv/hervykleir)  
+**Personal YouTube:** [hervykleir](https://www.youtube.com/@hervykleir)  
+
 
 ## 🎯 Hobbies & Interests  
 🏓 Table Tennis | 🎯 Air Hockey | ⛸️ Ice Skating | 🏐 Volleyball | 🏸 Badminton | 🎸 Electric Guitar  
