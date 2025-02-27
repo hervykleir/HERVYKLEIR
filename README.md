@@ -6,10 +6,10 @@
 
 ## 🎮 **Gaming**  
 ![Valorant](https://img.shields.io/badge/Valorant-hervykleir%230001-red?style=for-the-badge&logo=valorant&logoColor=white)  
-![Call of Duty](https://img.shields.io/badge/Call_of_Duty-Player-black?style=for-the-badge&logo=callofduty&logoColor=white)  
+![Call of Duty Mobile](https://img.shields.io/badge/Call_of_Duty_Mobile-Player-black?style=for-the-badge&logo=call-of-duty&logoColor=white)  
 ![PUBG](https://img.shields.io/badge/PUBG-Player-gray?style=for-the-badge&logo=pubg&logoColor=white)  
-![Mobile Legends](https://img.shields.io/badge/Mobile_Legends-Player-blue?style=for-the-badge&logo=mobilelegends&logoColor=white)  
-![Clash of Clans](https://img.shields.io/badge/Clash_of_Clans-Player-darkred?style=for-the-badge&logo=clashofclans&logoColor=white)  
+![Mobile Legends](https://img.shields.io/badge/Mobile_Legends-Player-blue?style=for-the-badge&logo=mobile-legends&logoColor=white)  
+![Clash of Clans](https://img.shields.io/badge/Clash_of_Clans-Player-darkred?style=for-the-badge&logo=clash-of-clans&logoColor=white)  
 
 🎮 *I play other games too!*  
 💬 *Add me on any of my social accounts to get my ID and let's play!*  
@@ -27,33 +27,22 @@
 ---
 
 ## 🎯 **Hobbies & Interests**  
-![Table Tennis](https://img.shields.io/badge/Table_Tennis-Favorite-darkblue?style=for-the-badge&logo=tabletennis)  
-![Air Hockey](https://img.shields.io/badge/Air_Hockey-Love_it-black?style=for-the-badge)  
-![Ice Skating](https://img.shields.io/badge/Ice_Skating-So_Cool-blue?style=for-the-badge&logo=skating)  
-![Volleyball](https://img.shields.io/badge/Volleyball-🏐-darkgray?style=for-the-badge&logo=volleyball)  
-![Badminton](https://img.shields.io/badge/Badminton-🏸-gray?style=for-the-badge)  
-![Electric Guitar](https://img.shields.io/badge/Electric_Guitar-🎸-darkred?style=for-the-badge&logo=guitar)  
+🏓 Table Tennis | 🎯 Air Hockey | ⛸️ Ice Skating | 🏐 Volleyball | 🏸 Badminton | 🎸 Electric Guitar  
 
 ---
 
 ## 🎤 **Talent**  
-![Sing](https://img.shields.io/badge/Singing-🎤-gray?style=for-the-badge)  
-![Dance](https://img.shields.io/badge/Dancing-💃🕺-darkblue?style=for-the-badge)  
+🎶 Sing and Dance  
 
 ---
 
 ## 🍽️ **Favorite Food**  
-![Pepper Steak](https://img.shields.io/badge/Chinese_Pepper_Steak-🍖-black?style=for-the-badge)  
-![Garlic Shrimp](https://img.shields.io/badge/Garlic_Buttered_Shrimp-🦐-gray?style=for-the-badge)  
-![Beef Teriyaki](https://img.shields.io/badge/Beef_Teriyaki-🍱-darkred?style=for-the-badge)  
-![Red Velvet Cake](https://img.shields.io/badge/Red_Velvet_Cake-🍰-darkblue?style=for-the-badge)  
-![Sisig](https://img.shields.io/badge/Sisig-🐷-darkgray?style=for-the-badge)  
+🥩 **Chinese Pepper Steak** | 🍤 **Garlic Buttered Shrimp** | 🍱 **Beef Teriyaki** | 🍰 **Red Velvet Cake** | 🐷 **Sisig**  
 
 ---
 
 ## ☕ **Favorite Drink**  
-![Coffee](https://img.shields.io/badge/Coffee-☕-brown?style=for-the-badge)  
-![Soju](https://img.shields.io/badge/Soju-🍺-darkgreen?style=for-the-badge)  
+☕ **Coffee** | 🍺 **Soju**  
 
 ---
 
